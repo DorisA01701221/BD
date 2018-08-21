@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://www.fg-a.com/wallpapers/white-background-geo-shapes.jpg);
+     background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left:10%;
+    margin-right:10%;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+img{
+    position: absolute; top: 0; left: 0;
+    width:"304";
+    height:"80";
+}
+h1{
+    text-align: center;
+    font-family: arial;
+    font-size: 200%;
+    color: black;
+}
+h2{
+    text-align: center;
+    font-family: arial;
+    color: black;
+}
+p{
+    text-align: center;
+    font-family: arial;
+    font-size: 200%;
+    color: rgb(102,2,60);
+    background-color: rgb(254,195,172);
+}
+li{
+    font-family: arial;
+    font-size: 100%;
+    color: black;
+}
